@@ -1,0 +1,190 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#07090e" />
+      <stop offset="50%" stop-color="#0b101b" />
+      <stop offset="100%" stop-color="#0d1527" />
+    </linearGradient>
+
+    <!-- Glowing Accent Gradients -->
+    <linearGradient id="primaryGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="40%" stop-color="#f8fafc" />
+      <stop offset="100%" stop-color="#94a3b8" />
+    </linearGradient>
+
+    <linearGradient id="borderGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.4" />
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.1" />
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0.3" />
+    </linearGradient>
+
+    <radialGradient id="radialCyan" cx="15%" cy="30%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="radialPurple" cx="85%" cy="70%" r="50%">
+      <stop offset="0%" stop-color="#818cf8" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Grid Pattern -->
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#334155" stroke-width="0.75" stroke-opacity="0.35" />
+      <circle cx="0" cy="0" r="1" fill="#38bdf8" fill-opacity="0.25" />
+    </pattern>
+
+    <!-- Filters for Glow Effects -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    .title-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Display', Roboto, 'Helvetica Neue', sans-serif;
+      font-weight: 800;
+      font-size: 52px;
+      letter-spacing: -0.02em;
+    }
+    .mono-tag {
+      font-family: 'SF Mono', Consolas, 'Fira Code', 'Liberation Mono', Menlo, Courier, monospace;
+      font-size: 13px;
+      letter-spacing: 0.18em;
+      font-weight: 600;
+    }
+    .subtitle-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Text', Roboto, sans-serif;
+      font-size: 20px;
+      font-weight: 400;
+      fill: #94a3b8;
+    }
+    .desc-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Text', Roboto, sans-serif;
+      font-size: 14.5px;
+      font-weight: 400;
+      fill: #64748b;
+    }
+    .pill-text {
+      font-family: 'SF Mono', Consolas, 'Fira Code', monospace;
+      font-size: 11.5px;
+      font-weight: 600;
+      letter-spacing: 0.05em;
+    }
+  </style>
+
+  <!-- Base Card Rectangle with Border -->
+  <rect x="2" y="2" width="1196" height="336" rx="16" fill="url(#bgGradient)" stroke="url(#borderGradient)" stroke-width="1.5" />
+
+  <!-- Ambient Glow Overlays -->
+  <rect x="2" y="2" width="1196" height="336" rx="16" fill="url(#radialCyan)" />
+  <rect x="2" y="2" width="1196" height="336" rx="16" fill="url(#radialPurple)" />
+
+  <!-- Subtle Engineering Grid -->
+  <rect x="2" y="2" width="1196" height="336" rx="16" fill="url(#grid)" />
+
+  <!-- Top Accent Highlight Bar -->
+  <path d="M 60 2 L 360 2" stroke="url(#primaryGlow)" stroke-width="3" stroke-linecap="round" />
+
+  <!-- Right Decorative Geometric / Neural Nodes -->
+  <g transform="translate(850, 45)" opacity="0.85">
+    <!-- Neural Node Network Graphic -->
+    <line x1="80" y1="50" x2="160" y2="30" stroke="#38bdf8" stroke-width="1.2" stroke-opacity="0.3" stroke-dasharray="3,3" />
+    <line x1="80" y1="50" x2="130" y2="120" stroke="#818cf8" stroke-width="1.2" stroke-opacity="0.3" stroke-dasharray="3,3" />
+    <line x1="160" y1="30" x2="220" y2="80" stroke="#c084fc" stroke-width="1.2" stroke-opacity="0.3" stroke-dasharray="3,3" />
+    <line x1="130" y1="120" x2="220" y2="80" stroke="#38bdf8" stroke-width="1.2" stroke-opacity="0.3" />
+    <line x1="130" y1="120" x2="180" y2="190" stroke="#818cf8" stroke-width="1.2" stroke-opacity="0.3" stroke-dasharray="3,3" />
+    <line x1="220" y1="80" x2="270" y2="150" stroke="#38bdf8" stroke-width="1.2" stroke-opacity="0.4" />
+    <line x1="180" y1="190" x2="270" y2="150" stroke="#c084fc" stroke-width="1.2" stroke-opacity="0.3" stroke-dasharray="3,3" />
+
+    <!-- Outer target circles -->
+    <circle cx="220" cy="80" r="32" fill="none" stroke="#38bdf8" stroke-opacity="0.15" stroke-width="1" />
+    <circle cx="220" cy="80" r="48" fill="none" stroke="#818cf8" stroke-opacity="0.08" stroke-width="1" stroke-dasharray="4,4" />
+
+    <!-- Nodes -->
+    <circle cx="80" cy="50" r="4.5" fill="#0b101b" stroke="#38bdf8" stroke-width="2" />
+    <circle cx="160" cy="30" r="5" fill="#0b101b" stroke="#818cf8" stroke-width="2" />
+    <circle cx="130" cy="120" r="6" fill="#0b101b" stroke="#38bdf8" stroke-width="2" />
+    <circle cx="220" cy="80" r="8" fill="#38bdf8" fill-opacity="0.2" stroke="#38bdf8" stroke-width="2.5" />
+    <circle cx="220" cy="80" r="3.5" fill="#ffffff" />
+    <circle cx="180" cy="190" r="5" fill="#0b101b" stroke="#c084fc" stroke-width="2" />
+    <circle cx="270" cy="150" r="6.5" fill="#0b101b" stroke="#818cf8" stroke-width="2" />
+
+    <!-- Code / Data metric watermark -->
+    <text x="260" y="235" font-family="'SF Mono', Consolas, monospace" font-size="11" fill="#475569" text-anchor="end">SYS.ARCH // AI.CORE.v2</text>
+  </g>
+
+  <!-- Left Content Area -->
+  <g transform="translate(64, 45)">
+    <!-- System Status / Mode Badge -->
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="280" height="28" rx="14" fill="#0f172a" stroke="#1e293b" stroke-width="1" />
+      <circle cx="14" cy="14" r="4.5" fill="#10b981">
+        <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite" />
+      </circle>
+      <text x="28" y="18" fill="#38bdf8" class="mono-tag">AI SYSTEMS &amp; ARCHITECTURE</text>
+    </g>
+
+    <!-- Main Title -->
+    <text x="0" y="78" fill="url(#textGradient)" class="title-text">
+      AMAN UJWAL
+    </text>
+
+    <!-- Subtitle -->
+    <text x="0" y="112" class="subtitle-text">
+      Machine Learning Engineer <tspan fill="#38bdf8">·</tspan> Neural Systems <tspan fill="#818cf8">·</tspan> Software Architecture
+    </text>
+
+    <!-- Description -->
+    <text x="0" y="146" class="desc-text">
+      Bridging foundational mathematical modeling with robust, production-grade engineering.
+    </text>
+    <text x="0" y="168" class="desc-text">
+      Focused on Deep Learning, Computer Vision, Scalable Data Pipelines, and Systems Optimization.
+    </text>
+
+    <!-- Tech Pillars (Anthropic / Microsoft Pill Style) -->
+    <g transform="translate(0, 202)">
+      <!-- Pill 1: Deep Learning -->
+      <g transform="translate(0, 0)">
+        <rect x="0" y="0" width="168" height="32" rx="7" fill="#0f172a" stroke="#334155" stroke-width="1" />
+        <rect x="0" y="0" width="3" height="32" rx="1.5" fill="#38bdf8" />
+        <text x="14" y="20" fill="#e2e8f0" class="pill-text">🧠 NEURAL NETWORKS</text>
+      </g>
+
+      <!-- Pill 2: Computer Vision -->
+      <g transform="translate(180, 0)">
+        <rect x="0" y="0" width="165" height="32" rx="7" fill="#0f172a" stroke="#334155" stroke-width="1" />
+        <rect x="0" y="0" width="3" height="32" rx="1.5" fill="#818cf8" />
+        <text x="14" y="20" fill="#e2e8f0" class="pill-text">👁️ COMPUTER VISION</text>
+      </g>
+
+      <!-- Pill 3: Data Pipelines -->
+      <g transform="translate(357, 0)">
+        <rect x="0" y="0" width="160" height="32" rx="7" fill="#0f172a" stroke="#334155" stroke-width="1" />
+        <rect x="0" y="0" width="3" height="32" rx="1.5" fill="#34d399" />
+        <text x="14" y="20" fill="#e2e8f0" class="pill-text">📊 DATA PIPELINES</text>
+      </g>
+
+      <!-- Pill 4: Systems & DSA -->
+      <g transform="translate(529, 0)">
+        <rect x="0" y="0" width="175" height="32" rx="7" fill="#0f172a" stroke="#334155" stroke-width="1" />
+        <rect x="0" y="0" width="3" height="32" rx="1.5" fill="#f59e0b" />
+        <text x="14" y="20" fill="#e2e8f0" class="pill-text">⚙️ JAVA SYSTEMS &amp; DSA</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- Bottom Accent / Subtle Glow Line -->
+  <line x1="64" y1="316" x2="1136" y2="316" stroke="#1e293b" stroke-width="1" />
+  <line x1="64" y1="316" x2="300" y2="316" stroke="url(#primaryGlow)" stroke-width="1.5" />
+</svg>

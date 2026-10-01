@@ -1,52 +1,95 @@
 <div align="center">
 
-  <!-- Banner SVG (Save your SVG file as banner.svg in the repository root or .github folder) -->
-  <img src="banner.svg" alt="Astartes Studios Banner" width="100%">
+  <!-- Hero Banner: High-resolution SVG architectural header -->
+  <a href="https://github.com/Amanujwal13">
+    <img src="./banner.svg" alt="Aman Ujwal — AI Systems & Architecture" width="100%">
+  </a>
 
   <br/><br/>
 
-  [![Build Status](https://img.shields.io/badge/BUILD-v2.4.0-22c55e?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com)
-  [![Armor Spec](https://img.shields.io/badge/ARMOR-MK%20VII-f59e0b?style=for-the-badge&logo=shield&logoColor=white)](https://github.com)
-  [![Chapter](https://img.shields.io/badge/CHAPTER-SALAMANDER-38bdf8?style=for-the-badge&logo=fortinet&logoColor=white)](https://github.com)
+  <!-- Status & Architecture Badges -->
+  <a href="https://github.com/Amanujwal13">
+    <img src="https://img.shields.io/badge/STATUS-ACTIVE%20RESEARCH%20%26%20BUILDING-0ea5e9?style=for-the-badge&logo=codeforces&logoColor=white" alt="Status Active" />
+  </a>
+  <a href="https://github.com/Amanujwal13">
+    <img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20DEEP%20LEARNING%20%26%20CV-818cf8?style=for-the-badge&logo=openai&logoColor=white" alt="Focus AI/ML" />
+  </a>
+  <a href="https://github.com/Amanujwal13">
+    <img src="https://img.shields.io/badge/ARCHITECTURE-SYSTEMS%20%26%20JAVA%20DSA-10b981?style=for-the-badge&logo=oracle&logoColor=white" alt="Architecture Java DSA" />
+  </a>
 
-  <p align="center">
-    <strong>Tactical Code &bull; AI/ML &bull; Battle-Tested Architecture</strong>
-  </p>
+  <br/><br/>
+
+  <!-- Connect & Social Links (Anthropic / Microsoft Sleek Style) -->
+  <a href="mailto:amantoppo.1040@gmail.com">
+    <img src="https://img.shields.io/badge/Email-amantoppo.1040@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Amanujwal13">
+    <img src="https://img.shields.io/badge/GitHub-Amanujwal13-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <br/><br/>
+  
+</div>
+
+
+---
+
+<div align="center">
+
+#### Core Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" alt="Languages" />
+</p>
+
+#### AI / Deep Learning & Scientific Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,mysql" alt="ML/DL and Data" />
+</p>
+
+#### Engineering Toolchain & Environments
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" alt="Tools" />
+</p>
 
 </div>
 
 ---
-# Hi, I'm Aman! 👋
 
-I'm an AI/ML-focused developer interested in **Machine Learning, Deep Learning, Data Science, and Software Development**.
+<div align="center">
 
-I enjoy understanding how things work, solving real-world problems, and turning ideas into practical projects. I'm currently strengthening my foundations in **Python, Machine Learning, Deep Learning, Java DSA, SQL, and System Design**.
+### `SYSTEM METRICS & TELEMETRY`
 
-## 🚀 About Me
+</div>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Amanujwal13&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0b101b&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="100%" alt="Aman's GitHub Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanujwal13&layout=compact&theme=tokyonight&hide_border=false&bg_color=0b101b&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="100%" alt="Aman's Top Languages" />
+      </td>
+    </tr>
+  </table>
+  
+  <p align="center">
+    <img src="https://streak-stats.demolab.com/?user=Amanujwal13&theme=tokyonight&hide_border=false&background=0b101b&ring=38bdf8&fire=818cf8&currStreakLabel=38bdf8&border=1e293b" width="85%" alt="GitHub Streak" />
+  </p>
+</div>
 
-- 🤖 Exploring **Artificial Intelligence, Machine Learning & Deep Learning**
-- 🐍 Working primarily with **Python**
-- ☕ Practicing **Java & Data Structures and Algorithms**
-- 📊 Interested in **Data Science, EDA & Data Preprocessing**
-- 🧠 Learning **Neural Networks and Deep Learning from scratch**
-- 👁️ Exploring **Computer Vision and Object Detection**
-- 🗄️ Working with **SQL and MySQL**
-- 🏗️ Learning **System Design and production-oriented development**
-- 🔬 Interested in taking ML projects from **data → model → evaluation → deployment**
-- 💡 Currently focusing on building practical and reliable AI/ML solutions
+---
 
-## 🛠️ Tech Stack
+<div align="center">
 
-### Languages
+### `CONNECT & COLLABORATE`
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,html,css)](https://skillicons.dev)
+</div>
+I am always interested in discussing machine learning research, collaborating on open-source AI tooling, or exploring challenging engineering opportunities:
 
-### Data & Machine Learning
+<div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,mysql)](https://skillicons.dev)
+[![Gmail](https://img.shields.io/badge/Gmail-amantoppo.1040@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amantoppo.1040@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Amanujwal13-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amanujwal13)
 
-**Python · Pandas · NumPy · Matplotlib · Scikit-learn · SQL · MySQL**
-
-### Development Tools
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,jupyter)](https://skillicons.dev)
+<br/>
+</div>
