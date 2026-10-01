@@ -1,10 +1,26 @@
+<div align="center">
+
+  <!-- Banner SVG (Save your SVG file as banner.svg in the repository root or .github folder) -->
+  <img src="banner.svg" alt="Astartes Studios Banner" width="100%">
+
+  <br/><br/>
+
+  [![Build Status](https://img.shields.io/badge/BUILD-v2.4.0-22c55e?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com)
+  [![Armor Spec](https://img.shields.io/badge/ARMOR-MK%20VII-f59e0b?style=for-the-badge&logo=shield&logoColor=white)](https://github.com)
+  [![Chapter](https://img.shields.io/badge/CHAPTER-SALAMANDER-38bdf8?style=for-the-badge&logo=fortinet&logoColor=white)](https://github.com)
+
+  <p align="center">
+    <strong>Tactical Code &bull; AI/ML &bull; Battle-Tested Architecture</strong>
+  </p>
+
+</div>
+
+---
 # Hi, I'm Aman! 👋
 
 I'm an AI/ML-focused developer interested in **Machine Learning, Deep Learning, Data Science, and Software Development**.
 
 I enjoy understanding how things work, solving real-world problems, and turning ideas into practical projects. I'm currently strengthening my foundations in **Python, Machine Learning, Deep Learning, Java DSA, SQL, and System Design**.
-
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aman&theme=github_dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
