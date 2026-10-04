@@ -84,6 +84,7 @@
 
 <div>
 I am always interested in discussing machine learning research, collaborating on open-source AI tooling, or exploring challenging engineering opportunities:
+<br/></br>
 
 <div align="center">
 <a href="mailto:amantoppo.1040@gmail.com">
