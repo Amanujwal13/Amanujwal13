@@ -84,7 +84,11 @@
 
 <div>
 I am always interested in discussing machine learning research, collaborating on open-source AI tooling, or exploring challenging engineering opportunities:
+<<<<<<< HEAD
 <br/></br>
+=======
+<br/><br/>
+>>>>>>> 5cb845f3549629967a19db51f26667da38e66b33
 <div align="center">
 <a href="mailto:amantoppo.1040@gmail.com">
     <img src="https://img.shields.io/badge/Email-amantoppo.1040@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
