@@ -3,9 +3,8 @@
   <!-- Hero Banner: High-resolution SVG architectural header -->
   <div style="display:flex:gap:10px;">
   <a href="https://github.com/Amanujwal13">
-    <img src="pic\aman.png" alt="Aman Ujwal — AI Systems & Architecture" width="500%">
-  </a>
-  </div>
+    <img src="Aman.svg" alt="Aman Ujwal — AI Systems & Architecture" width="500%">
+</div>
   <br/><br/>
 
   <!-- Status & Architecture Badges -->
@@ -83,13 +82,14 @@
 
 ### `CONNECT & COLLABORATE`
 
-</div>
+<div>
 I am always interested in discussing machine learning research, collaborating on open-source AI tooling, or exploring challenging engineering opportunities:
 <br/></br>
 <div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-amantoppo.1040@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amantoppo.1040@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Amanujwal13-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amanujwal13)
-
-<br/>
+<a href="mailto:amantoppo.1040@gmail.com">
+    <img src="https://img.shields.io/badge/Email-amantoppo.1040@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Amanujwal13">
+    <img src="https://img.shields.io/badge/GitHub-Amanujwal13-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
