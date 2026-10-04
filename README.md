@@ -1,10 +1,11 @@
 <div align="center">
 
   <!-- Hero Banner: High-resolution SVG architectural header -->
+  <div style="display:flex:gap:10px;">
   <a href="https://github.com/Amanujwal13">
-    <img src="./banner.svg" alt="Aman Ujwal — AI Systems & Architecture" width="100%">
+    <img src="pic\aman.png" alt="Aman Ujwal — AI Systems & Architecture" width="500%">
   </a>
-
+  </div>
   <br/><br/>
 
   <!-- Status & Architecture Badges -->
@@ -20,7 +21,6 @@
 
   <br/><br/>
 
-  <!-- Connect & Social Links (Anthropic / Microsoft Sleek Style) -->
   <a href="mailto:amantoppo.1040@gmail.com">
     <img src="https://img.shields.io/badge/Email-amantoppo.1040@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -37,18 +37,22 @@
 <div align="center">
 
 #### Core Languages & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" alt="Languages" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,js,mysql" />
+  </a>
 </p>
 
 #### AI / Deep Learning & Scientific Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,mysql" alt="ML/DL and Data" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,sklearn" />
+  </a>
 </p>
 
 #### Engineering Toolchain & Environments
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,notion,pycharm" alt="Tools" />
 </p>
 
 </div>
@@ -62,11 +66,7 @@
 </div>
 <div align="center">
   <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Amanujwal13&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0b101b&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="100%" alt="Aman's GitHub Stats" />
-      </td>
-      <td align="center" width="50%">
+      <td align="center" width="85%">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanujwal13&layout=compact&theme=tokyonight&hide_border=false&bg_color=0b101b&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b" width="100%" alt="Aman's Top Languages" />
       </td>
     </tr>
@@ -85,7 +85,7 @@
 
 </div>
 I am always interested in discussing machine learning research, collaborating on open-source AI tooling, or exploring challenging engineering opportunities:
-
+<br/></br>
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-amantoppo.1040@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amantoppo.1040@gmail.com)
